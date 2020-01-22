@@ -8,8 +8,6 @@ All stimuli should be included in the library, but if for whatever reason they a
 
 Please let me know if there are any issues! Thanks!
 
-*UPDATE:* there is an issue between the third and fourth trials across all four lists: In sentence 2, you're instructed to pick up one of the houses and move it to another area. Once you click on it, the cursor bounces to the top-left corner of the image and proceeds to the next trial. You can bypass this issue by waiting for S1 of the next trial (*"Move the bee to area 3"*) to finish, and simply place the bee in area 3 and click inside the box.
-
 
 ## ABOUT THE EXPERIMENT
 
